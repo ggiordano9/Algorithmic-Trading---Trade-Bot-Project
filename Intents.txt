@@ -1,0 +1,33 @@
+{"intents": [
+{"tag": "greeting",
+"patterns": ["Hi", "Greetings", "How is it going?", "How are you?", "Hey", "Hola", "Hello", "Good day"],
+"responses": ["Hi", "Hello", "Hi there", "I am well, thanks for asking", "Good day to you", "Hi, how can I help?"],
+"context": [""]
+},
+{"tag": "goodbye",
+"patterns": ["Bye", "See you later", "Later", "Talk soon", "Goodbye", "Till next time", "Good bye"],
+"responses": ["Ciao", "Nice chatting with you, bye", "See you!", "Have a nice day", "Bye! Come back again soon."],
+"context": [""]
+},
+{"tag": "thanks",
+"patterns": ["Thanks", "Thank you", "That's helpful", "Awesome, thanks", "Great! Thank you", "Thanks for helping me"],
+"responses": ["Happy to help!", "It was my pleasure", "Delighted to be of service", "Any time!", "My pleasure"],
+"context": [""]
+},
+{"tag": "noanswer",
+"patterns": [],
+"responses": ["Is anyone there?","Sorry, can't understand you", "Please give me more info", "Not sure I understand"],
+"context": [""]
+},
+{"tag": "name", 
+"patterns": ["what is your name?", "Whats your name?", "What should I call you", "Who are you?"], 
+"responses": ["Hi! I am Majggelin", "Call me Majggelin", "My name is Majggelin!", "This is Majggelin. How may I be of assistance?", "I'm Majggelin. How can I help you today?"], 
+"context_set": [""] 
+}, 
+{"tag": "investment",
+"patterns": ["Start investing", "Open an investment portfolio", "Create an investment portfolio", "Investment options"], 
+"responses": ["It sounds like you need investment advice. Before we proceed I need to gather some personal information"], 
+"context_set": [""] 
+}
+]
+}
