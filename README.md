@@ -50,6 +50,7 @@ User selected option (B)
 a) Within 5 years = Conservative b) Not for 11-15 years = Moderate
 b) Not for 16-20 years = Aggressive
 User selected option (B)
+
 - Final conclusion : The User has Moderate risk tolerance which will lead the system to
 suggest the S&P as the appropriate portfolio to invest in.
 Research questions to answer:
