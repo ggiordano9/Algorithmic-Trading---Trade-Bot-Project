@@ -10,7 +10,7 @@ Stage 1:
 Creating a bot that is user friendly that determines the risk tolerance of the user. The bot
 created will begin to ask the user a series of questions and according to the responses, it will
 make the appropriate stock portfolio allocation. The allocation or risk tolerance will be divided
-into three categories.
+into three categories:
 1- Conservative
 2- Moderate
 3-Aggressive.
