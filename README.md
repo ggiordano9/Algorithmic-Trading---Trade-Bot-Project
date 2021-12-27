@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<<<<<<< 
 Project 2
 Project title:
 Algorithm trading app using Machine learning / Supervised learning
