@@ -3,7 +3,7 @@ Project 2
 Project title:
 Algorithm trading app using Machine learning / Supervised learning
 Team members:
-Moustafa Moussa, Nathan Nelson, Joel Carballo, Gabriela Corrochano, Gabby Giordano
+Gabby Giordano, Moustafa Moussa, Nathan Nelson, Joel Carballo, Gabriela Corrochano
 Project description/ outline:
 Essentially our app is going to function in 3 stages :
 Stage 1:
