@@ -42,7 +42,7 @@ User selected option (B)
 a) $50,000 - $100,000 = Conservative b) $100,000 - $250,000 = Moderate c)
 $250,000+ = Aggressive
 User selected option (B)
-4- How much money do you want to invest:
+4- How much money would you like to invest:
 a) Conservative growth = Conservative b) Moderate growth potential =
 Moderate c) High growth potential = Aggressive
 User selected option (B)
