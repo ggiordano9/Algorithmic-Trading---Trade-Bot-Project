@@ -1,10 +1,10 @@
 <<<<<<< 
-Project 2
-Project title:
+## Project title:
 Algorithm trading app using Machine learning / Supervised learning
 Team members:
 Gabby Giordano, Moustafa Moussa, Nathan Nelson, Joel Carballo, Gabriela Corrochano
-Project description/ outline:
+
+## Project description/ outline:
 Essentially our app is going to function in 3 stages :
 Stage 1:
 Creating a bot that is user friendly that determines the risk tolerance of the user. The bot
@@ -64,6 +64,8 @@ ESG, API, CSV
 Rough breakdown of tasks:
 Data collection, API selection, Chat Bot creation, Risk tolerance analysis (BOT), Machine learning
 capability, Bot alert creation, Algorithmic trading
-=======
-#Project 2
->>>>>>> 68104610f0678679090f90512419d57625d17920
+
+## Installation
+
+Download the repo at link: https://github.com/ggiordano9/Algorithmic-Trading---Trade-Bot-Project by clicking 'Code' tab -> 'Download Zip'
+
